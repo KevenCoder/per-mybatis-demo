@@ -65,20 +65,4 @@ public class MyBatisUtil {
         }
     }
 
-    /*
-     * 测试方法
-     */
-    /*public static void main(String[] args) {
-
-        Connection conn = MyBatisUtil.getSqlSession().getConnection();
-
-        if(conn == null)
-        {
-            System.out.println("连接为空");
-        }
-        else
-        {
-            System.out.println("连接不为空");
-        }
-    }*/
 }

@@ -8,7 +8,6 @@ import java.util.List;
 
 public class MybatisTest {
 
-
     @Test
     public void addStu(){
 
