@@ -33,6 +33,7 @@
 
     <mappers>
         <mapper resource="per/mybatis/conf/StudentsMapper.xml"/>
+        <mapper resource="per/mybatis/conf/UserMapper.xml"/>
     </mappers>
 
 </configuration>
